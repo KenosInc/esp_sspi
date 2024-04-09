@@ -1,0 +1,3 @@
+[submodule "sspi"]
+	path = sspi
+	url = git@github.com:odolgy/sspi.git
